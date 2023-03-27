@@ -1,4 +1,3 @@
-# YTUpload
-YouTube bulk uploader using YouTube API
+YTUpload
 
-< To be worked on >
+Automated script to upload to YouTube from the command line (Linux).
