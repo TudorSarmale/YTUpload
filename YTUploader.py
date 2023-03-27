@@ -1,8 +1,3 @@
-#YouTube bulk uploader tool v1
-#licensed under the GNU General Public License v2 https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
-#available at https://github.com/VoieTudor/YTUpload
-#created by Voie Tudor
-
 import os
 import sys
 import glob
